@@ -1,0 +1,31 @@
+/* ==========================================================================
+   Base styles
+   ========================================================================== */
+
+body {
+    font-family: "Trebuchet MS", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+a, a:focus, a:hover {
+    color: #00a4f9;
+}
+
+
+/* ==========================================================================
+   Content
+   ========================================================================== */
+
+.section {
+	margin-bottom: 3rem;
+}
+
+.section-title {
+	font-weight: bold;
+	margin-bottom: 1.5rem;
+}
+
+.download-link {
+	font-weight: bold;
+	margin-bottom: 0.2rem;
+	padding: 0.2rem 0;
+}

@@ -1,0 +1,10 @@
+# Jekyll SEO Tag plugin
+title       : "East-tec Press Kit"
+description : ""
+author      : easttec
+twitter:
+  username  : easttec
+
+gems:
+  - jekyll-seo-tag
+  - jekyll-sitemap
